@@ -1,4 +1,4 @@
-###Hi there
+### Hi there 👋
 
 - 👋 Hi, I’m Sharon D'Souza (@sjd-2000)
 - 🌱 I’m currently pursuing MASTERS in Computer Application at MIT MANIPAL ...
