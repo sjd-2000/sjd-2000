@@ -6,7 +6,9 @@
 - 💞️ I’m looking to collaborate on machine learning and Mobile App Development projects.
 - 📫 you can reachout to me at
 - Phone: (+91)9372301228
+  
   Email: dsouzza.sharon2k@gmail.com
+  
   Linkedin: https://www.linkedin.com/in/dsouzasharon2k/
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjd-2000)](https://github.com/anuraghazra/github-readme-stats)
