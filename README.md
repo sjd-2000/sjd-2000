@@ -5,7 +5,6 @@
 - 👀 I’m interested in Databases, Machine Learning, AI and Mobile Application Development.
 - 💞️ I’m looking to collaborate on machine learning and Mobile App Development projects.
 - 📫 you can reachout to me at
-- Phone: (+91)9372301228
   
   Email: dsouzza.sharon2k@gmail.com
   
